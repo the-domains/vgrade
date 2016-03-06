@@ -2,13 +2,13 @@
     <channel>
         <title><![CDATA[vgrade]]></title>
         <description><![CDATA[vgrade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vgrade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:29:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 15:36:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vgrade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin's nightmare scenario has come to pass]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's nightmare scenario has come to pass</h1><p>Over the last year and a half a number of prominent voices in the Bitcoin community have been warning that the system needed to make fundamental changes to its core software code to avoid being overwhelmed by the continued growth of Bitcoin transactions.</p><img src="https://cdn1.vox-cdn.com/thumbor/-zx3KgfoaTYCz9lmrwmMQLvbQZk=/0x183:3500x2152/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/48981619/GettyImages-466495828.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitcoin's nightmare scenario has come to pass</h1><p>Over the last year and a half a number of prominent voices in the Bitcoin community have been warning that the system needed to make fundamental changes to its core software code to avoid being overwhelmed by the continued growth of Bitcoin transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab08c5d9ec9bc787c9d70dfd85e9b94bf37ad62.jpg"></article>]]></description>
             <link>https://t.co/POzdXmqAKR</link>
             <guid isPermaLink="false">d6046738-86d6-4caa-9299-fe8987c1c672</guid>
             <pubDate>Sun, 06 Mar 2016 15:26:44 GMT</pubDate>
